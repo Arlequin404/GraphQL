@@ -1,4 +1,4 @@
- GraphQL Hello World (English)
+## GraphQL Hello World (English)
 Description
 This project is a basic GraphQL server implemented using Node.js and Express. It includes a simple "Hello World" query that responds with a greeting message, ideal for understanding the fundamental concepts of GraphQL. The project also includes Docker support for containerization.
 
@@ -57,7 +57,7 @@ Docker Hub Link
 You can pull the pre-built image from Docker Hub here:
 Docker Hub Repository
 
-📝 GraphQL Hello World (Español)
+## GraphQL Hello World (Español)
 Descripción
 Este proyecto es un servidor GraphQL básico implementado usando Node.js y Express. Incluye una consulta simple "Hello World" que devuelve un mensaje de saludo, ideal para entender los conceptos fundamentales de GraphQL. El proyecto también incluye soporte para Docker.
 
